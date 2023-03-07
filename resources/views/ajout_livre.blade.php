@@ -15,5 +15,6 @@
       <input type="text" class="form-control" id="prix" name="prix">
     </div>
     <button type="submit" class="btn btn-primary">Valider</button>
+       @csrf
   </form>
 @stop
