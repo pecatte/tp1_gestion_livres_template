@@ -29,9 +29,9 @@
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" 
                         role="button" data-bs-toggle="dropdown" aria-expanded="false">Membre</a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" href="{{ route('meslivres') }}">Mes Jeux</a></li>
+                            <li><a class="dropdown-item" href="{{ route('meslivres') }}">Mes Livres</a></li>
                             <li><hr class="dropdown-divider"></li>
-                            <li><a class="dropdown-item" href="{{ route('ajouter') }}">Ajouter un jeu</a></li>
+                            <li><a class="dropdown-item" href="{{ route('ajouter') }}">Ajouter un livre</a></li>
                         </ul>
                     </li>
         
